@@ -1,0 +1,36 @@
+git --version
+git config user.name
+git config user.email
+cd ..
+dir
+mkdir dirName
+type nul > index.html
+subl index.html
+del
+rmdir
+**************
+git init
+notepad myFile.txt
+git status
+git add fileName.html
+git rm --cached table001.txt
+git add .
+git commit -m "Message"
+git log
+git log --oneline
+
+git checkout <unique id>
+git checkout master
+git revert <unique id>
+shift colon wq
+git reset <unique id>
+git reset <unique id> --hard
+
+git push <https://github.com/VinnyTsoi/sql-table001.git> master
+git remote add origin <https://github.com/VinnyTsoi/sql-table001.git>
+git push origin master
+git remote -v
+
+**************
+git clone <https://github.com/VinnyTsoi/sql-table001.git>
+
